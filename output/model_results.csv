@@ -1,0 +1,5 @@
+,MAE ($bn),RMSE ($bn),MAPE (%),R2
+Linear Regression,1623.53,1679.35,51.86,-9.8
+Log-Linear Regression,323.47,347.84,11.02,0.54
+"Polynomial (deg 2, log)",363.23,449.18,10.95,0.23
+"ARIMA(1,1,1) on log",206.13,244.54,6.43,0.77
